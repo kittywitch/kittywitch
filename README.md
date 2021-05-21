@@ -14,7 +14,7 @@ this will always be ongoing as it is the configurations used for my NixOS system
 
 ### [kittywitch/amethyst](https://github.com/kittywitch/amethyst) (rust)
 
-a work in progress site to replace the [jekyll-based static site](https://github.com/kittywitch/website).
+a work in progress site to replace the jekyll-based static site: [kittywitch/website](https://github.com/kittywitch/website).
 
 ### [kittywitch/rustyline#inputrc](https://github.com/kittywitch/rustyline/tree/inputrc) (rust)
 
