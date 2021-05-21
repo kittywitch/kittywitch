@@ -21,6 +21,7 @@ i intend to have:
 * blogging / documentation of work using markdown / public notes (i would like to write about NixOS stuff)
 * taskwarrior export display (pre-existing solutions for this seem meh, i use the perl script at the moment)
 * maybe some file directory listing features for archiving neat stuff i come across
+* list of client fingerprints in use for networks on IRC
 
 ### [kittywitch/rustyline#inputrc](https://github.com/kittywitch/rustyline/tree/inputrc) (rust)
 
