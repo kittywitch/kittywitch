@@ -16,6 +16,12 @@ this will always be ongoing as it is the configurations used for my NixOS system
 
 a work in progress site to replace the jekyll-based static site: [kittywitch/website](https://github.com/kittywitch/website).
 
+i intend to have:
+
+* blogging / documentation of work using markdown / public notes (i would like to write about NixOS stuff)
+* taskwarrior export display (pre-existing solutions for this seem meh, i use the perl script at the moment)
+* maybe some file directory listing features for archiving neat stuff i come across
+
 ### [kittywitch/rustyline#inputrc](https://github.com/kittywitch/rustyline/tree/inputrc) (rust)
 
 a port of the inputrc handling from [murarth/linefeed](https://github.com/murarth/linefeed) to [kkawakam/rustyline](https://github.com/kkawakam/rustyline).
