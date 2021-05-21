@@ -8,15 +8,15 @@ hi! i'm kat! my pronouns are she/her or they/them.
 
 ## i'm currently working on:
 
-### [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles)
+### [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) (nix)
 
 this will always be ongoing as it is the configurations used for my NixOS systems.
 
-### [kittywitch/amethyst](https://github.com/kittywitch/amethyst)
+### [kittywitch/amethyst](https://github.com/kittywitch/amethyst) (rust)
 
 a work in progress site to replace the [jekyll-based static site](https://github.com/kittywitch/website).
 
-### [kittywitch/rustyline#inputrc](https://github.com/kittywitch/rustyline/tree/inputrc)
+### [kittywitch/rustyline#inputrc](https://github.com/kittywitch/rustyline/tree/inputrc) (rust)
 
 a port of the inputrc handling from [murarth/linefeed](https://github.com/murarth/linefeed) to [kkawakam/rustyline](https://github.com/kkawakam/rustyline).
 
