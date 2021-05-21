@@ -20,7 +20,7 @@ a work in progress site to replace the [jekyll-based static site](https://github
 
 a port of the inputrc handling from [murarth/linefeed](https://github.com/murarth/linefeed) to [kkawakam/rustyline](https://github.com/kkawakam/rustyline).
 
-reasoning being to add support for inputrc to [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs).
+reasoning being to add support for inputrc to [tiffany352/rink-rs](https://github.com/tiffany352/rink-rs). a branch for this feature is available at [kittywitch/rink-rs#rustyline-inputrc](https://github.com/kittywitch/rink-rs/tree/rustyline-inputrc).
 
 ## i'm currently learning:
 
