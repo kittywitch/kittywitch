@@ -33,6 +33,7 @@ reasoning being to add support for inputrc to [tiffany352/rink-rs](https://githu
 
 * nix
 * rust
+* haskell
 
 ## further info
 
