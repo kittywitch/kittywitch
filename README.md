@@ -9,6 +9,7 @@ Hi! I'm kat. My pronouns are mew/mews or she/her.
 I currently mostly work with Nix:
 
 * [kittywitch/nixfiles](https://github.com/kittywitch/nixfiles) - The NixOS configurations used for my machines.
+* [kittywitch/nixexprs](https://github.com/kittywitch/nixexprs) - The packages and modules I use but keep separately.
 
 ## I'm currently learning:
 
