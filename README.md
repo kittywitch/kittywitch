@@ -20,8 +20,6 @@ I currently mostly work with Nix:
 ## Further Info
 
 My website is linked on my profile.
-
-![kat’s github stats][]
 <!--
 **kittywitch/kittywitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,4 +37,3 @@ Here are some ideas to get you started:
 
   [kittywitch/nixfiles]: https://github.com/kittywitch/nixfiles
   [kittywitch/nixexprs]: https://github.com/kittywitch/nixexprs
-  [kat’s github stats]: https://github-readme-stats.vercel.app/api?username=kittywitch&theme=midnight-purple&show_icons=1&include_all_commits=1
